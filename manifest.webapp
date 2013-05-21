@@ -1,7 +1,7 @@
     {  
       "version": "1.0",  
       "name": "Dropbox",  
-      "description": "Dropbox", 
+      "description": "Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily. Never email yourself a file again!", 
       "icons": {  
         "16": "/icon-16.png",
         "32": "/icon-32.png",  
